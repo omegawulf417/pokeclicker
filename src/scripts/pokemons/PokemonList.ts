@@ -193,7 +193,7 @@ const pokemonList = createPokemonArray(
         'evolutions': [new LevelEvolution('Charmander', 'Charmeleon', 16)],
         'base': {
             'hitpoints': 39,
-            'attack': 52,
+            'attack': 5200,
             'specialAttack': 60,
             'defense': 43,
             'specialDefense': 50,
@@ -18223,7 +18223,7 @@ const pokemonList = createPokemonArray(
         'type': [PokemonType.Fire],
         'base': {
             'hitpoints': 50,
-            'attack': 71,
+            'attack': 710000,
             'specialAttack': 40,
             'defense': 40,
             'specialDefense': 40,
@@ -18259,7 +18259,7 @@ const pokemonList = createPokemonArray(
         'type': [PokemonType.Fire],
         'base': {
             'hitpoints': 80,
-            'attack': 116,
+            'attack': 11600,
             'specialAttack': 65,
             'defense': 75,
             'specialDefense': 75,
